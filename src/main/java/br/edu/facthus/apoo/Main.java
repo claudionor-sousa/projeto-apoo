@@ -3,8 +3,8 @@ package br.edu.facthus.apoo;
 public class Main {
 
 	public static void exercicioGrupo0() {
-		System.out.println("Fulano de Tal");
-		System.out.println("Cicrano de Tal");
+		System.out.println("claudionor");
+		System.out.println("teste");
 	}
 
 	// TODO: acrescentar os outros grupos
